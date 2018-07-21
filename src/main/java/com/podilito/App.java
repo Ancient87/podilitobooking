@@ -133,7 +133,7 @@ public class App extends Jooby {
 
     private class PaymentEndpoint {
 
-        private static final String PEURL = "http://localhost:8081/payment";
+        private static final String PEURL = "http://172.31.30.211:8080/payment";
 
         public PaymentEndpoint() {
 
