@@ -1,0 +1,10 @@
+{
+  "bookings": [
+    {"id":90, 
+    "ref":"JGHhFVpkgwbQdiQeSHFxREfUiyHWzYQew3wkFRxeb5MjWTx1oi7",
+    "fee":10,
+    "paid":true
+    }  
+  ],
+  "string": "Hello World"
+}
